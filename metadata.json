@@ -1,0 +1,6 @@
+{
+  "name": "SIGA Saúde",
+  "description": "Sistema Integrado de Gestão de Almoxarifado da Saúde – Secretaria Municipal de Saúde de Miguel Alves – PI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
